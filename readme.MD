@@ -1,1 +1,4 @@
-Examples of R Python and various ML and DL algos
+R Python Basics for Data Science 
+Data Cleansing / Preprocessing /Feature Engineering Techniques 
+Machine Learning
+Deep Learning
